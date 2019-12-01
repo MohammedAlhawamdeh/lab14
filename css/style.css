@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(70, 209, 82);
+    margin:auto;
+    width:960px;
+  }
+  ​
+  body {
+    font-family: Georgia;
+    line-height: 1.4;
+    font-weight: normal;
+    font-stretch: normal;
+    font-variant: small-caps;
+    font-size: 16px;
+  }
+  h1{
+    font-size: 40px;
+  }
